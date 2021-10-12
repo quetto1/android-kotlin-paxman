@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pacman</string>
+    <string name="points">Points:</string>
+    <string name="health">Health:</string>
+    <string name="level">Level:</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_unpause">Un pause</string>
+    <string name="newgame">New Game</string>
+</resources>
